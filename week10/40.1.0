@@ -1,0 +1,6 @@
+Collecting setuptools
+  Downloading setuptools-70.2.0-py3-none-any.whl.metadata (5.8 kB)
+Downloading setuptools-70.2.0-py3-none-any.whl (930 kB)
+   ---------------------------------------- 930.8/930.8 kB 1.6 MB/s eta 0:00:00
+Installing collected packages: setuptools
+Successfully installed setuptools-70.2.0
